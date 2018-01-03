@@ -91,7 +91,7 @@ void computeInternalForceLinearElasticKokkos
 )
 {
    /* Thread numbers for Host */
-   cout << blabla;
+
    // TODO bring this in from input/choose an appropriate thread count
    int num_threads = 1;
    int teams = 1;
